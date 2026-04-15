@@ -15,8 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -45,55 +43,35 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I don't think i'm using the right tags the right way, i aspire to be able to right professional code using the right semantic tags for HTML and the right/perfect css style property.
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
-### Useful resources
+### Useful resources 
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+**(https://www.frontendmentor.io/solutions/qr-code-component-with-flexbox-QBaOVoYUyu)**
 
 ### AI Collaboration
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
+i just ask it for a guide on how to get started,then i asked how it was looking on every progress i made.
 
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
+-I used vs Code GitHub Copilot
+-I used it to have a start-up
+- it was ok generally,i don't think anything bad went wrong
 
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
+**Note:Vs code copilot just guided me how i should start,not much impact from the AI....just a short guide**
 
 ## Author
 
 - Website - [Hyden](https://www.your-site.com)
 - Frontend Mentor - [Hydentrix101](https://www.frontendmentor.io/profile/Hydentrix101)
 
-**Note: I have created first ever project of frontend mentor,this projest i did really helped be .**
+**Note: I have created first ever project of frontend mentor,this project i did really helped me rememberhow to make good use of basic css elements i've learnt in the past.It was a good active recall exercise.**
 
 ## Acknowledgments
 
 https://www.frontendmentor.io/solutions/qr-code-component-with-flexbox-QBaOVoYUyu
-her work gave me the instant drive and right idea on usomg flex box to do the
+her solution to the challenge gave me the instant drive and right idea on usomg flex box to do the layout of the web.
 
