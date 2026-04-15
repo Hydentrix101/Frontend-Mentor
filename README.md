@@ -87,13 +87,13 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Hyden](https://www.your-site.com)
+- Frontend Mentor - [Hydentrix101](https://www.frontendmentor.io/profile/Hydentrix101)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+**Note: I have created first ever project of frontend mentor,this projest i did really helped be .**
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+https://www.frontendmentor.io/solutions/qr-code-component-with-flexbox-QBaOVoYUyu
+her work gave me the instant drive and right idea on usomg flex box to do the
 
